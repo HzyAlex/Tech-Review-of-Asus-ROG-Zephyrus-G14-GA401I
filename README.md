@@ -2,6 +2,8 @@
 
 # Tech Review for Asus ROG Zephyrus G14 GA401I
 
+By Alex Hu & Alex Zhang
+
 ![See the source image](https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2020%2F01%2Fasus-rog-zephyrus-g14-gaming-laptop-twtr.jpg?w=960&cbr=1&q=90&fit=max)
 
 ## Price
